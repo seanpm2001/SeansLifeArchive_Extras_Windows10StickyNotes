@@ -1,0 +1,9 @@
+Future music collection notes part 1 - January 20th 2020
+
+Add in Half-life 2 data
+Update album explorer
+Update audio explorer
+finish converting download section to HTML5
+Update with a new entry
+
+==============================

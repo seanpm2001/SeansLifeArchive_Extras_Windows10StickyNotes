@@ -1,0 +1,42 @@
+Update plans for 1.08.2020
+
+* Ideaboard (staff) has a lot of potential (sidebar, topbar, graphics)
+* Update 2D start to link to more places
+
+2D start update:
+snapshot dates
+linkage to many SNU pages
+update the sidebar
+update the topbar
+
+ideaboard update today, regardless if there are new ideas or not:
+Update the sidebar (add in)
+Update the topbar
+Fix page syntax a bit
+
+Update info on about:blank | starts with Netscape Navigator, every modern browser after that has it
+
+SNU version repository is missing a sidebar and a topbar, try adding those in
+
+Create media for SNU jobs (Favicon of an S briefcase)
+
+Music collection update
+separate pages for songs
+start with powerhouses like Minecraft, Undertale, Bejeweled, etc
+New download data
+New entries
+Update byte/bit counters
+
+Prepare for SB 1.10
+Scripts at the bottom of the page
+<script>
+</script>
+<?
+?>
+<ruby>
+</ruby>
+Topbar dropdowns
+Embedded animatable CSS
+
+"I have to become cynical to become sane again" 
+"We can rewrite Hell" random quotes I made

@@ -1,0 +1,40 @@
+Sticky note 1.5.2020.txt context
+
+This sticky note goes over update plans for the SNU website, including an update to the PHP script collection, an update to the 2D start page
+
+Update plans for 1.06.2020
+
+PHP collection update
+2DStart update
+Prepare for new sourcebase update
+Restart work on master HTML reference
+Update fontawesome indenting
+
+Sourcebase planning
+Next update plans:
+Support for 1.09
+Improved page semantics
+New default text tags: Emphasized text (em) Strong text (strong) Scripting (code) Sample output (sample) Keyboard input (kbd) Variable (var) Quote (q) 
+Phrase tags
+em strong code sample kbd var
+ol (ordered list) along with li 
+Pre tag
+<pre>
+Text in a pre element
+is displayed in a fixed-width
+font, and it preserves
+both      spaces and
+line breaks
+</pre>
+HTML4
+Strike
+s
+Experiment with blockquote
+Improved support for sub and sup (add text before it)
+Update info on about:blank | starts with Netscape Navigator, every modern browser after that has it
+
+Create media for SNU jobs (Favicon of an S briefcase)
+
+Music collection update
+separate pages for songs
+start with powerhouses like Minecraft, Undertale, Bejeweled, etc

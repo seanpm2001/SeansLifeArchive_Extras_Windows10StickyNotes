@@ -1,0 +1,17 @@
+Update plans for 1.07.2020
+
+Ideaboard (staff) has a lot of potential (sidebar, topbar, graphics)
+Update 2D start to link to more places
+If not done yesterday, finalize sourcebase 1.09
+(HTML, Ruby, CSS, PHP)
+
+Update info on about:blank | starts with Netscape Navigator, every modern browser after that has it
+
+Create media for SNU jobs (Favicon of an S briefcase)
+
+Music collection update
+separate pages for songs
+start with powerhouses like Minecraft, Undertale, Bejeweled, etc
+New download data
+New entries
+Update byte/bit counters

@@ -1,0 +1,9 @@
+Context for StickyNote2_1.2.2020.txt
+This note is identical to the previous one, and serves as a next day reminder written on a previous day.
+
+This sticky note starts with website notes to add in phrase tags in a master page, and separate pages. It also says to add redirection links and how to set up the content.
+It is also reminding you to use the new CSS stylesheet that was made yesterday.
+The next part reminds Aean to update the SNU developer log and ideaboard with snapshot dates in the snapshot section.
+It also reminds you that no idea board update is necessary.
+Other notes include the prepatation of testing more HTML5 tags, and description for the plans and release of a new sourcebase (web template) update
+1 idea is listed, but is not to be used yet.

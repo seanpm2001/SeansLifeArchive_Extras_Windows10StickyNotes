@@ -1,0 +1,7 @@
+Context of StickyNote1.1.2020.txt
+
+This is the first sticky note of 2020 by Sean Myrick.
+The note reminds to work on journaling first thing, make semantic updates to website, update the website ideaboard, and update the HTML test references to include all 6 Phrase tags. It also says to update the Favicon collection, and the JavaScript collection.
+Also for the website is to update Digg mode graphics
+
+It is also reminded again to export sticky notes and add context, along with create an all-in-one sticky note document, and an optional music index update

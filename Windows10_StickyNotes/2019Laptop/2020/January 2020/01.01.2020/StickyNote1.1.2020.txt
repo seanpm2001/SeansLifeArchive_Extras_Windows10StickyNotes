@@ -1,0 +1,11 @@
+ToDo 1.1.2020
+
+Work on journaling first thing
+Website work (semantic update, update idea board for yesterday (I messed up on that) and update the HTML test references to include new phrase tags (6x) and update to Favicon and JS collection)
+Export notes from November up to December 
+26th 2019 from sticky notes app and add context
+Create all-in-one sticky note documents
+
+Optionals:
+Website Digg graphics
+Music collection update

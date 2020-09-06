@@ -1,0 +1,17 @@
+Website plans for 1.2.2020
+
+New content
+Add in phrase tag page (6 separate, 1 all-in-one) there will be redirect links, but all related content should go on each page. Make sure to use the new CSS I made yesterday
+
+Developer log and idea board:
+Bring snapshot dates up to January 2nd 2020 (shouldn't take too long)
+
+Other notes
+No idea board update. 
+
+Other updates
+Begin preparation for testing more HTML5 tags
+The go-to for phrase tag support is now there for SourceBase after this update, but the update won't come until I test more tags and features (like a dropdown for the navigation abr for when the display gets full)
+
+Future website idea (don't add in yet)
+Ad superswitch (turns on/off all ads without having to go through menus

@@ -1,0 +1,53 @@
+Update plans for 1.12.2020
+
+Write some sort of document about a restaurant which only serves foods you eat
+
+Website update: div boxes (copy from Earth Day 2020) that have color. Use them on MLK memorial and Valentines Day 2020 pages
+MLK page is brown colored, valentines day page is pink colored, they have their own themes, the div boxes themselves won't be brown on the MLK page
+
+* Update 2D start to link to more places
+
+2D start update:
+snapshot dates
+linkage to many SNU pages
+update the sidebar
+update the topbar
+
+Update info on about:blank | starts with Netscape Navigator, every modern browser after that has it
+
+Address missing DOWNLOADSNUOFFLINE snapshot from 1.7.2020
+
+Website idea: Million dollar homepage creator
+credit to the original
+reset button
+billion dollar homepage mode
+
+Audio collection
+Audio explorer
+!Animal crossing
+!Adcap
+!Bejeweled
+Wheres my water OST
+Album explorer:
+Purchased section
+Coming soon section
+Covertart.png 5x
+
+SNU version repository needs to be updated to fix the overlapping transbox issue
+
+Create media for SNU jobs (Favicon of an S briefcase)
+
+Prepare for SB 1.10
+Scripts at the bottom of the page
+<script>
+</script>
+<?
+?>
+<ruby>
+</ruby>
+Topbar dropdowns
+Embedded animatable CSS
+
+Put these quotes somewhere
+"I have to become cynical to become sane again" 
+"We can rewrite Hell" random quotes I made
