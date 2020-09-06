@@ -1,0 +1,4 @@
+Notice about the line indent style
+
+Since I am exporting from a Microsoft Windows application, I decided it would be suitable to keep the formatting as Windows (CR) (LF) for sticky note exports, and UNIX (LF) for other files.
+It just makes more sense this way. I could optimize the documents, but I won't bother, as most text editors can read both CR and LF anyway, and if they can't, they aren't very good ones.

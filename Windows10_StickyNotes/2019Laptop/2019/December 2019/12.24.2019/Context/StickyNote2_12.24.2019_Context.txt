@@ -1,0 +1,3 @@
+Context behind StickyNote2_12.24.2019.txt
+
+This sticky note is just a counter of the song and sound effect count for several days for ease of development for the audio database index file

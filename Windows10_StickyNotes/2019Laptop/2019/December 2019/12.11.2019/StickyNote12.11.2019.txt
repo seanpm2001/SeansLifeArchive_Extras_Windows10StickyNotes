@@ -1,0 +1,6 @@
+ToDo 12.11.2019
+
+Website idea:
+scrolling direction option
+While on post (up, down, left, right)
+More semantic tags to ideaboard today along with snapshot date finalization

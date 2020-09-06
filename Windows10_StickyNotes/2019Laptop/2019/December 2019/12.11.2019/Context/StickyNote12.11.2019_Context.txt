@@ -1,0 +1,3 @@
+Context behind sticky note 12.11.2019.txt
+
+This sticky note is a reminder about a website idea, and a reminder about finalizing the addin of semantic tags

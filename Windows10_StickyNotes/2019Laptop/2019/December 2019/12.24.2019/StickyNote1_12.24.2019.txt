@@ -1,0 +1,24 @@
+todo 12.24.2019
+Update log: list of changes with HTTPList
+
+Alert system
+Sidebar contents
+New range
+
+Font system update
+Dropdown
+Make fonts separately work
+
+Copy over comments in 
+UpLog
+
+Music collection major update
+
+Comm/day
+19
+39
+36
+68
+0
+40
+36

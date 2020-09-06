@@ -1,0 +1,5 @@
+Context behind stickynote1_12.24.2019.txt
+
+This sticky note is a reminder to do a website update, with changes to the HTTP status code list database, for that page to add in an alert system, contents to the sidebar, and a new HTTP range.
+The reminder is also for an update to the font teting page, to copy comments from a previous update log entry to a new one after daily completion, and to make a major music collection update.
+The bottom is a counter of the commit count per day for 7 days in December 2019

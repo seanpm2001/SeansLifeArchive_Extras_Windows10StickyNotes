@@ -1,0 +1,3 @@
+Context behind sticky note 12.09.2019.txt
+
+This note serves a reminder to update multiple parts of the SNU website, such as developer log and ideaboard snapshots, an update to the rules of the internet page, and finalizing the copying of JavaScript for the day

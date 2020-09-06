@@ -1,0 +1,8 @@
+Context for stickynote1_12.30.2019.txt
+
+This sticky note tells Sean to create new years artwork for SNU, and test SQL wildcards
+Also for the website, all required tasks must be done, the top navigation bar for the developer log must be finished, and document Desktop Environment support for Windows and KDE needs to be established
+
+Next up is a notice to update the music collection index by adding in a topnav and sidebar, along with some journaling notes for today
+
+It finally ends off with a reminder to sort files

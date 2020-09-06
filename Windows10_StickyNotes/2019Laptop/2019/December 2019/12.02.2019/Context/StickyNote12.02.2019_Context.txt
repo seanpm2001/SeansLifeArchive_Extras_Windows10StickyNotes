@@ -1,0 +1,6 @@
+Context behind Sticky Note 12.02.2019.txt
+
+This sticky note reminds me of 2 things:
+The developer log in my website is having an overhaul with a new feature
+
+The other is a reminder to update sourcebase - the web template for my website, and to be creative with it, and not just create a basic get it over with update

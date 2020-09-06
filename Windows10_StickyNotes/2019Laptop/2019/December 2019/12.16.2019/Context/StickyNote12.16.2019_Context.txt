@@ -1,0 +1,11 @@
+Context behind sticky note 12.16.2019.txt
+
+This sticky note is a reminder for 4 things:
+
+To finish testing the 2d homepage of SNU
+
+Work on SNU Cloud gaming functionality
+
+Downloading Google Classroom data for my 3rd period psychology class, and my 7th period engineering class
+
+Work on SNU 4D mode graphics, especially adding in tesseracts (4 dimensional cubes)
